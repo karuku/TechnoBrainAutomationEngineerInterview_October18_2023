@@ -1,0 +1,16 @@
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\bin\Release\net5.0\TechnoBrainQuestionTwo.exe
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\bin\Release\net5.0\TechnoBrainQuestionTwo.deps.json
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\bin\Release\net5.0\TechnoBrainQuestionTwo.runtimeconfig.json
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\bin\Release\net5.0\TechnoBrainQuestionTwo.runtimeconfig.dev.json
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\bin\Release\net5.0\TechnoBrainQuestionTwo.dll
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\bin\Release\net5.0\ref\TechnoBrainQuestionTwo.dll
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\bin\Release\net5.0\TechnoBrainQuestionTwo.pdb
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\obj\Release\net5.0\TechnoBrainQuestionTwo.csproj.AssemblyReference.cache
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\obj\Release\net5.0\TechnoBrainQuestionTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\obj\Release\net5.0\TechnoBrainQuestionTwo.AssemblyInfoInputs.cache
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\obj\Release\net5.0\TechnoBrainQuestionTwo.AssemblyInfo.cs
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\obj\Release\net5.0\TechnoBrainQuestionTwo.csproj.CoreCompileInputs.cache
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\obj\Release\net5.0\TechnoBrainQuestionTwo.dll
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\obj\Release\net5.0\ref\TechnoBrainQuestionTwo.dll
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\obj\Release\net5.0\TechnoBrainQuestionTwo.pdb
+D:\technoBrain\TechnoBrainQuestionOne\TechnoBrainQuestionTwo\obj\Release\net5.0\TechnoBrainQuestionTwo.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TechnoBrainQuestionTwo/1.0.0": {
+        "runtime": {
+          "TechnoBrainQuestionTwo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TechnoBrainQuestionTwo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

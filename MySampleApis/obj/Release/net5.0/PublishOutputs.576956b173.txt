@@ -1,0 +1,10 @@
+D:\technoBrain\TechnoBrainQuestionOne\MySampleApis\obj\Release\net5.0\PubTmp\Out\MySampleApis.exe
+D:\technoBrain\TechnoBrainQuestionOne\MySampleApis\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\technoBrain\TechnoBrainQuestionOne\MySampleApis\obj\Release\net5.0\PubTmp\Out\MySampleApis.dll
+D:\technoBrain\TechnoBrainQuestionOne\MySampleApis\obj\Release\net5.0\PubTmp\Out\MySampleApis.deps.json
+D:\technoBrain\TechnoBrainQuestionOne\MySampleApis\obj\Release\net5.0\PubTmp\Out\MySampleApis.runtimeconfig.json
+D:\technoBrain\TechnoBrainQuestionOne\MySampleApis\obj\Release\net5.0\PubTmp\Out\MySampleApis.pdb
+D:\technoBrain\TechnoBrainQuestionOne\MySampleApis\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\technoBrain\TechnoBrainQuestionOne\MySampleApis\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\technoBrain\TechnoBrainQuestionOne\MySampleApis\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\technoBrain\TechnoBrainQuestionOne\MySampleApis\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
